@@ -1,0 +1,1 @@
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120897">약수 구하기</a>

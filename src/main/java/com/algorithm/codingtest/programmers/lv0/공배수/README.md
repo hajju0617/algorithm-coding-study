@@ -1,0 +1,1 @@
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181936">공배수</a>

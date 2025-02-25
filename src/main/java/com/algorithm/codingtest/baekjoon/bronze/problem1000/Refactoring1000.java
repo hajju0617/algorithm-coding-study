@@ -1,4 +1,4 @@
-package com.algorithm.codingtest.baekjoon.bronze.Ⅴ.problem1000;
+package com.algorithm.codingtest.baekjoon.bronze.problem1000;
 
 import java.io.BufferedReader;
 import java.io.IOException;

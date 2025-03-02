@@ -1,0 +1,1 @@
+- [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)

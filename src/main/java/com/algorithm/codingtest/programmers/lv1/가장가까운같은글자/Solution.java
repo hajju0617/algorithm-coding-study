@@ -1,7 +1,13 @@
 package com.algorithm.codingtest.programmers.lv1.가장가까운같은글자;
 
+import java.util.Arrays;
+
 public class Solution {
-    public int[] solution(String s) {
+    public static void main(String[] args) {
+        String str = "affaffaffa";
+        System.out.println(Arrays.toString(solution(str)));
+    }
+    public static int[] solution(String s) {
         int[] numArr = new int[s.length()];
         int[] sequence = new int[26];
 

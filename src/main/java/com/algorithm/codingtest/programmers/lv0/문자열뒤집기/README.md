@@ -1,11 +1,1 @@
-<a href=""></a>
-
-```java
-public String solution(String my_string) {
-    
-    StringBuilder str = new StringBuilder(my_string);
-    
-    return str.reverse().toString();
-}
-```
-- reverse() 메서드를 활용하는 방법.
+- [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)

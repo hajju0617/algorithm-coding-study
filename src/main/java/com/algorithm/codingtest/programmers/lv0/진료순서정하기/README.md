@@ -1,0 +1,1 @@
+- [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)

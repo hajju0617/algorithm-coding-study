@@ -1,0 +1,1 @@
+- [닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200)

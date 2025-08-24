@@ -2,7 +2,7 @@ package com.algorithm.codingtest.programmers.lv0.전국대회선발고사;
 
 import java.util.*;
 public class Solution {
-    public int solution(int[] rank, boolean[] attendance) {
+    public static int solution(int[] rank, boolean[] attendance) {
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < rank.length; i++) {
             if (attendance[i]) {
@@ -21,6 +21,9 @@ public class Solution {
             }
             if(list.get(2) == rank[i]){
                 c = i;
+            }
+            if (a != 0 && b != 0 && c != 0) {
+                break;
             }
         }
         return 10000 * a + 100 * b + c;

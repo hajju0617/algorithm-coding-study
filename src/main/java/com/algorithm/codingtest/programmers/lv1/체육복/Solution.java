@@ -20,7 +20,7 @@ public class Solution {
         }
 
         for (int l : lost) {
-            if (l == 0) {
+            if (l == -1) {
                 continue;
             }
             for (int i = 0; i < reserve.length; i++) {
